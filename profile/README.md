@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="img/verboo-logo.png" alt="Verboo logo — VerbooRTC is a core traffic‑delivery and signaling platform for realtime systems" width="1024" />
+  <img src="../img/verboo-logo.png" alt="Verboo logo — VerbooRTC is a core traffic‑delivery and signaling platform for realtime systems" width="1024" />
 </p>
 
 # Verboo
